@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: BlaBlaENM Tech Blog
+email: hsw@spotlight101.kr
+author: NICK PURY
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,10 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "주)블라블라ENM
+주소 : 서울 서초구 서초대로 396 강남빌딩
+​대표자 : 김영종    사업자등록번호 : 485-87-01986   
+사업/광고 제휴 : blabla@spotlight101.kr"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
